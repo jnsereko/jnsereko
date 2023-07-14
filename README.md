@@ -59,6 +59,6 @@ For more details about my professional background, you can download my resume [h
 
 ## Contact Me 📧
 If you have any questions, suggestions, or collaboration opportunities, feel free to reach out to me. You can connect with me through the following channels:
-- LinkedIn: [Your Name](https://www.linkedin.com/in/jnsereko) 👥
+- LinkedIn: [Nsereko Joshua](https://www.linkedin.com/in/jnsereko) 👥
 
 Thank you for visiting my GitHub profile. I look forward to connecting with you and exploring exciting projects together! 😄🚀
