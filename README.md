@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Welcome to My GitHub Profile! 🌟
 
 ## Introduction 👋
-Hello, fellow developers! I'm thrilled to have you here on my GitHub profile. I am a professional web developer with a strong focus on Java ☕, JavaScript 🌐, and Python 🐍, Web Apss, AI and MAchine learning
+Hello, fellow developers! I'm thrilled to have you here on my GitHub profile. I am a professional web developer with a strong focus on Java ☕, JavaScript 🌐, and Python 🐍, Web Apss and AI
 - 🔭 I like contribution to open source
 - 🌱 I’m currently learning AI models
 - 🤔 I’m looking for help with UI/UX 😆
